@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://resmush.it/api
 common:
+  - type: DomainSecurity
+    url: security/resmush-it-domain-security.yml
   - type: Website
     url: https://resmush.it/api
   - type: PublicAPIsListing

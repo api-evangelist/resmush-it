@@ -1,0 +1,15 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: resmush.it
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  3 14:08:19 2026 GMT
+  hsts: false
+domains:
+- domain: resmush.it
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: false
