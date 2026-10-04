@@ -39,7 +39,6 @@ apis:
   - name: ReSmush.it
     description: "Photo optimization"
     humanURL: https://resmush.it/api
-    baseURL: https://resmush.it/api
     tags:
       - Photography
     properties:
